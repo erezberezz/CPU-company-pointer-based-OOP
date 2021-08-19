@@ -1,0 +1,8 @@
+cpu Zi7 $$$ 80
+cpu Zi5 $$$ 120
+cpu Zi3 $$$ 80
+cpu Zi9 $$$ 120
+cpu zZzZ $$$ 120
+bloblo12zZzZ $$$ 120
+asdasd $$$ 99999
+Asdasd $$$ 98765432

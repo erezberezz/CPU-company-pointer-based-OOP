@@ -1,0 +1,9 @@
+Asdasd $$$ 98765432
+Zblabla $$$ 10
+Zbloblo $$$ 120
+asdasd $$$ 99999
+cpu Zi3 $$$ 80
+cpu Zi5 $$$ 105
+cpu Zi7 $$$ 10
+cpu Zi9 $$$ 120
+cpu zZzZ $$$ 120

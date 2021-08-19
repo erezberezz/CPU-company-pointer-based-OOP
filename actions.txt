@@ -1,0 +1,7 @@
+Initialize
+Fatal_malfunction $$$ cpu Zi7 $$$ 130
+Fatal_malfunction $$$ cpu Zi5 $$$ 15
+Returned_from_customer $$$ cpu Zi7 $$$ 10
+Rename $$$ bloblo12zZzZ $$$ Zbloblo
+Returned_from_customer $$$ Zblabla $$$ 10
+Finalize
